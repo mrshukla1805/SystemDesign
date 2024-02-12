@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T19:41:24.709Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.3" etag="r-zCtZ-lqq2MSifu-HPF" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-12T19:45:40.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="AB5k4Yvu-cCIspCMvJ-3" version="23.1.3" type="github">
   <diagram name="Page-1" id="RDRckPmyUK0IBgSG79K3">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="k8E_rRscjF43p3oMLAPd-1" value="" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mini_as400;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;container=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="43" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="k8E_rRscjF43p3oMLAPd-3" value="" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mainframe;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="60" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k8E_rRscjF43p3oMLAPd-4" value="Google OAuth" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k8E_rRscjF43p3oMLAPd-5" value="Our JWT Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="230" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="k8E_rRscjF43p3oMLAPd-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="k8E_rRscjF43p3oMLAPd-1" target="k8E_rRscjF43p3oMLAPd-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="450" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k8E_rRscjF43p3oMLAPd-7" value="" style="shape=mxgraph.cisco.computers_and_peripherals.pc;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="250" width="78" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k8E_rRscjF43p3oMLAPd-10" value="Client" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="494" y="200" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
