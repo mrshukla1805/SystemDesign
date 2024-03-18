@@ -1,9 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T18:18:03.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.4" etag="RUeAMz0OIwZdnxIuM5eR" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-18T18:54:10.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="CGB7jwEK3_2JsveiNvq6" version="24.0.4" type="github">
   <diagram name="Page-1" id="k2zsnBGUq49lVIupte8p">
-    <mxGraphModel>
+    <mxGraphModel dx="1500" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NQqoe5-1sf0SyAnJqwin-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NQqoe5-1sf0SyAnJqwin-1" target="NQqoe5-1sf0SyAnJqwin-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NQqoe5-1sf0SyAnJqwin-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="NQqoe5-1sf0SyAnJqwin-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQqoe5-1sf0SyAnJqwin-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="260" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="NQqoe5-1sf0SyAnJqwin-2" value="RASA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="97.5" y="292.5" width="75" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="NQqoe5-1sf0SyAnJqwin-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="270" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NQqoe5-1sf0SyAnJqwin-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="NQqoe5-1sf0SyAnJqwin-5">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NQqoe5-1sf0SyAnJqwin-4" value="Web Speech API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="NQqoe5-1sf0SyAnJqwin-5">
+          <mxGeometry x="30" y="15" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQqoe5-1sf0SyAnJqwin-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;For data generation&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;1. Synthetically create data on set of rules&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;2. Or use a paid service like amazon mechanical turk&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="50" y="490" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="NQqoe5-1sf0SyAnJqwin-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NQqoe5-1sf0SyAnJqwin-3" target="NQqoe5-1sf0SyAnJqwin-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NQqoe5-1sf0SyAnJqwin-9" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="250" width="100" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="NQqoe5-1sf0SyAnJqwin-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NQqoe5-1sf0SyAnJqwin-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400.0000000000002" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQqoe5-1sf0SyAnJqwin-10" value="Web App" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="545" y="288" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQqoe5-1sf0SyAnJqwin-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.014;entryY=0.662;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NQqoe5-1sf0SyAnJqwin-3" target="NQqoe5-1sf0SyAnJqwin-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NQqoe5-1sf0SyAnJqwin-16" value="Deploy the model on Rasa x" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NQqoe5-1sf0SyAnJqwin-17" value="Google Speech to text&lt;br&gt;(costly)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="390" width="140" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
